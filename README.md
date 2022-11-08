@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dcazares
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning how to ingest, aggregate, store, and visualize data
-- 💞️ I’m looking to collaborate on jupyter notebooks and Tableau visualizations
+- 💞️ I’m looking to collaborate on airflow, trino, jupyter notebooks and Tableau visualizations
 - 📫 How to reach me: https://twitter.com/dcazares
 
 <!---
